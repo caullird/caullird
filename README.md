@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```php
 <?php
 
