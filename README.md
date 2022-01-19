@@ -17,8 +17,8 @@ class About extends Me
         return [
             'school' => [
                 'name' => 'Polytech Annecy Chambéry',
-                'formation' => 'IDU [Informatique Données d'Usages]'       ,
-                'keywords' => 'Data, Machine Learning, IA'
+                'formation' => 'IDU [Informatique Données Usages]',
+                'keywords' => 'Data, Machine Learning, IA',
             ]
         ];
     }
